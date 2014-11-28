@@ -1,0 +1,6 @@
+D:\Dokumenty\Visual Studio 2013\Projects\PAI8\SexService\bin\SexService.dll.config
+D:\Dokumenty\Visual Studio 2013\Projects\PAI8\SexService\bin\SexService.dll
+D:\Dokumenty\Visual Studio 2013\Projects\PAI8\SexService\bin\SexService.pdb
+D:\Dokumenty\Visual Studio 2013\Projects\PAI8\SexService\obj\Debug\SexService.csprojResolveAssemblyReference.cache
+D:\Dokumenty\Visual Studio 2013\Projects\PAI8\SexService\obj\Debug\SexService.dll
+D:\Dokumenty\Visual Studio 2013\Projects\PAI8\SexService\obj\Debug\SexService.pdb

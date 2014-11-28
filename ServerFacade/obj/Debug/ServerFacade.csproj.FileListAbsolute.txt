@@ -1,0 +1,5 @@
+D:\Dokumenty\Visual Studio 2013\Projects\PAI8\ServerFacade\bin\ServerFacade.dll.config
+D:\Dokumenty\Visual Studio 2013\Projects\PAI8\ServerFacade\bin\ServerFacade.dll
+D:\Dokumenty\Visual Studio 2013\Projects\PAI8\ServerFacade\bin\ServerFacade.pdb
+D:\Dokumenty\Visual Studio 2013\Projects\PAI8\ServerFacade\obj\Debug\ServerFacade.dll
+D:\Dokumenty\Visual Studio 2013\Projects\PAI8\ServerFacade\obj\Debug\ServerFacade.pdb

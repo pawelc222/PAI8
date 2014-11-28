@@ -1,0 +1,6 @@
+D:\Dokumenty\Visual Studio 2013\Projects\PAI8\PersonService\bin\PersonService.dll.config
+D:\Dokumenty\Visual Studio 2013\Projects\PAI8\PersonService\bin\PersonService.dll
+D:\Dokumenty\Visual Studio 2013\Projects\PAI8\PersonService\bin\PersonService.pdb
+D:\Dokumenty\Visual Studio 2013\Projects\PAI8\PersonService\obj\Debug\PersonService.csprojResolveAssemblyReference.cache
+D:\Dokumenty\Visual Studio 2013\Projects\PAI8\PersonService\obj\Debug\PersonService.dll
+D:\Dokumenty\Visual Studio 2013\Projects\PAI8\PersonService\obj\Debug\PersonService.pdb

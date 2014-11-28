@@ -1,0 +1,13 @@
+d:\dokumenty\visual studio 2013\Projects\PAI8\Client\bin\Debug\Client.pdb
+D:\Dokumenty\Visual Studio 2013\Projects\PAI8\Client\bin\Debug\Client.exe.config
+D:\Dokumenty\Visual Studio 2013\Projects\PAI8\Client\bin\Debug\Client.exe
+D:\Dokumenty\Visual Studio 2013\Projects\PAI8\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\Dokumenty\Visual Studio 2013\Projects\PAI8\Client\obj\Debug\MainWindow.baml
+D:\Dokumenty\Visual Studio 2013\Projects\PAI8\Client\obj\Debug\MainWindow.g.cs
+D:\Dokumenty\Visual Studio 2013\Projects\PAI8\Client\obj\Debug\App.g.cs
+D:\Dokumenty\Visual Studio 2013\Projects\PAI8\Client\obj\Debug\Client_MarkupCompile.cache
+D:\Dokumenty\Visual Studio 2013\Projects\PAI8\Client\obj\Debug\Client.g.resources
+D:\Dokumenty\Visual Studio 2013\Projects\PAI8\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Dokumenty\Visual Studio 2013\Projects\PAI8\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\Dokumenty\Visual Studio 2013\Projects\PAI8\Client\obj\Debug\Client.exe
+D:\Dokumenty\Visual Studio 2013\Projects\PAI8\Client\obj\Debug\Client.pdb
